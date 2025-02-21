@@ -1,4 +1,4 @@
-<h2 align="center">Braian Gaspar da Rosa</h2>
+<h1 align="center">Braian Gaspar da Rosa</h1>
 
 ###
 

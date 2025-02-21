@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Braian Gaspar da Rosa</h2>
+<h2 align="left">👋! Sou o Braian Gaspar da Rosa</h2>
 
 ###
 

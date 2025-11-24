@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-main-braiangaspar.vercel.app/api?username=BraianGaspar&show_icons=true&theme=dracula&hide_border=false)
+![Top Languages](https://github-readme-stats-git-main-braiangaspar.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula&hide_border=false)
 
 </div>
 

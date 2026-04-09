@@ -22,12 +22,16 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula&hide_border=false&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula&hide_border=false&langs_count=8&locale=pt-br"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BraianGaspar&theme=dracula&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BraianGaspar&theme=dracula&hide_border=false&locale=pt_BR"/>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BraianGaspar&label=Visualizações&color=9B30FF&style=flat-square" alt="Visualizações de perfil" />
 </div>
 
 ---
@@ -66,7 +70,7 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 
 ## 🚀 Projetos em Destaque
 
-*Em breve adicionarei meus melhores projetos aqui! 🎯*
+* Beready - Plataforma de ensino de idiomas 🎯*
 
 ---
 

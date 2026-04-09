@@ -23,12 +23,6 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.rhoen.su/api?username=BraianGaspar&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br)
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&hide_border=false&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)
 
 </div>

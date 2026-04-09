@@ -22,19 +22,15 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br&bg_color=0D1117&title_color=9B30FF&icon_color=9B30FF"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=radical&hide_border=true&langs_count=6&locale=pt-br&bg_color=0D1117&title_color=9B30FF"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=BraianGaspar&theme=radical&hide_border=true&locale=pt_BR&background=0D1117&stroke=9B30FF&ring=9B30FF&fire=9B30FF&currStreakLabel=9B30FF"/>
-</div>
+| | |
+|:---:|:---:|
+| 🗓️ **Período** | 9 de abril de 2022 - Presente |
+| 🚀 **Total de Contribuições** | **266** |
+| 🔥 **Sequência Atual** | **12 dias** (29/mar - 9/abr) |
+| 🏆 **Maior Sequência** | **12 dias** (29/mar - 9/abr) |
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BraianGaspar&label=👀 Visualizações&color=9B30FF&style=flat-square" alt="Visualizações de perfil" />
 </div>
-
-> **Nota:** As estatísticas podem levar alguns minutos para atualizar após novos commits.
 
 ---
 

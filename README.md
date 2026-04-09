@@ -23,12 +23,21 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 
 <div align="center">
 
-| | |
-|:---:|:---:|
-| 🗓️ **Período** | 9 de abril de 2022 - Presente |
-| 🚀 **Total de Contribuições** | **266** |
-| 🔥 **Sequência Atual** | **12 dias** (29/mar - 9/abr) |
-| 🏆 **Maior Sequência** | **12 dias** (29/mar - 9/abr) |
+![GitHub Stats](https://github-readme-stats.rhoen.su/api?username=BraianGaspar&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br)
+
+![Top Languages](https://github-readme-stats.rhoen.su/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula&hide_border=false&langs_count=8&locale=pt-br)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&hide_border=false&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)
+
+</div>
+
+<div align="center">
+
+![Perfil Views](https://komarev.com/ghpvc/?username=BraianGaspar&label=Visualizações&color=7159c1&style=flat-square)
 
 </div>
 

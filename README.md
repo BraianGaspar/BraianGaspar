@@ -22,10 +22,12 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula&hide_border=false&langs_count=8"/>
+</div>
 
-![GitHub Stats](https://github-readme-stats-git-main-braiangaspar.vercel.app/api?username=BraianGaspar&show_icons=true&theme=dracula&hide_border=false&count_private=true)
-![Top Languages](https://github-readme-stats-git-main-braiangaspar.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula&hide_border=false&langs_count=8)
-
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BraianGaspar&theme=dracula&hide_border=false"/>
 </div>
 
 ---
@@ -83,8 +85,6 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 
 <div align="center">
   
-![Snake animation](https://github.com/BraianGaspar/BraianGaspar/blob/output/github-contribution-grid-snake.svg)
-
 ⭐️ **Obrigado pela visita!** ⭐️
 
 *"O código é a poesia da lógica."*

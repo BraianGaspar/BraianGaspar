@@ -22,17 +22,19 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=dracula&hide_border=false&count_private=true&include_all_commits=true&locale=pt-br"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula&hide_border=false&langs_count=8&locale=pt-br"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&locale=pt-br&bg_color=0D1117&title_color=9B30FF&icon_color=9B30FF"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=radical&hide_border=true&langs_count=6&locale=pt-br&bg_color=0D1117&title_color=9B30FF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BraianGaspar&theme=dracula&hide_border=false&locale=pt_BR"/>
+  <img src="https://streak-stats.demolab.com?user=BraianGaspar&theme=radical&hide_border=true&locale=pt_BR&background=0D1117&stroke=9B30FF&ring=9B30FF&fire=9B30FF&currStreakLabel=9B30FF"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BraianGaspar&label=Visualizações&color=9B30FF&style=flat-square" alt="Visualizações de perfil" />
+  <img src="https://komarev.com/ghpvc/?username=BraianGaspar&label=👀 Visualizações&color=9B30FF&style=flat-square" alt="Visualizações de perfil" />
 </div>
+
+> **Nota:** As estatísticas podem levar alguns minutos para atualizar após novos commits.
 
 ---
 
@@ -70,7 +72,7 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 
 ## 🚀 Projetos em Destaque
 
-* Beready - Plataforma de ensino de idiomas 🎯*
+*Em breve adicionarei meus melhores projetos aqui! 🎯*
 
 ---
 
@@ -79,9 +81,9 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/braian_gaspar/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5545988353553)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braiangaspardarosagaspardarosa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-gaspar-da-rosa-b18bb7217/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BraianGaspar)
 
 </div>
 

@@ -69,8 +69,8 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 
 ## 🚀 Projetos em Destaque
 
-* Beready - Plataforma de ensino de idiomas 📚 *
-* Efraim ar-condicionados 🌡️❄️ *
+* **Beready** - Plataforma de ensino de idiomas 📚
+* **Efraim ar-condicionados** 🌡️❄️
 
 ---
 

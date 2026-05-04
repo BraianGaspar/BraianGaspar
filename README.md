@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=9B30FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=9B30FF&center=true&vCenter=true&random=false&width=600&lines=Desenvolvedor+Full+Stack;Especialista+em+legado+%2B+moderno;Buscando+o+pr%C3%B3ximo+n%C3%ADvel!)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,87 +10,88 @@
 
 ## 🧑‍💻 Sobre mim
 
-Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em constante evolução. Tenho paixão por criar soluções criativas e funcionais, sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** com experiência real no mercado. Atualmente atuo como **Treinee**, mas minha rotina inclui tarefas que vão muito além do cargo: desenvolvo funcionalidades, mantenho sistemas legados, treino aprendizes e entrego o que era responsabilidade do antigo júnior.
 
-- 🔭 Atualmente trabalhando em projetos pessoais para fortalecer meu portfólio
-- 🌱 Aprendendo mais sobre **Next.js, Node.js e Vue.js**
-- 💬 Pergunte-me sobre **PHP, Java, JavaScript e desenvolvimento web**
-- ⚡ Curiosidade: Adoro transformar ideias em código e resolver problemas de forma criativa
+💡 **Meu diferencial:**  
+Sei navegar em **código legado (CakePHP, jQuery, Oracle)** e também construir **projetos modernos (Next.js, TypeScript, Node.js)**. Quero migrar para tecnologias atuais, crescer profissionalmente e conquistar uma remuneração compatível com minha entrega.
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&hide_border=false&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)
-
-</div>
-
-<div align="center">
-
-![Perfil Views](https://komarev.com/ghpvc/?username=BraianGaspar&label=Visualizações&color=7159c1&style=flat-square)
-
-</div>
+- 🔭 **Experiência atual:** Manutenção e evolução de sistemas em CakePHP 2.x/3.x, jQuery, MySQL e Oracle
+- 🌱 **Estudos paralelos:** Next.js 14, TypeScript, Tailwind CSS, Prisma ORM
+- 🎯 **Objetivo:** Conquistar vaga como **Desenvolvedor Júnior/Pleno** em projetos com stack moderna
+- ⚡ **Fato:** Treino aprendizes e entrego tarefas de júnior, mesmo sendo contratado como treinee
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Stack que domino (mercado atual)
 
-### 💻 Back-end
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
+| Tecnologia | Uso diário | Projetos |
+|------------|------------|----------|
+| **CakePHP** (2.x/3.x) | ✅✅✅✅✅ | Sistemas legados em produção |
+| **jQuery** | ✅✅✅✅✅ | Manutenção de front-end legado |
+| **MySQL** | ✅✅✅✅ | Consultas complexas, stored procedures |
+| **Oracle** | ✅✅✅✅ | Banco corporativo |
+| **HTML5/CSS3** | ✅✅✅✅✅ | Interfaces responsivas |
+| **JavaScript (ES5+)** | ✅✅✅✅ | Features e correções |
 
 </div>
 
-### 🎨 Front-end
+## 🚀 Stack que domino (projetos próprios)
+
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js"/>
+| Tecnologia | Nível | Projetos |
+|------------|-------|----------|
+| **Next.js 14** | Avançado | E-commerce completo |
+| **TypeScript** | Intermediário | Projetos com tipagem estática |
+| **Node.js** | Intermediário | API routes e serverless |
+| **PostgreSQL** | Intermediário | Modelagem com Prisma |
+| **Tailwind CSS** | Intermediário | UI moderna e responsiva |
+| **Vite** | Avançado | Build e dev server |
 
 </div>
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📌 Projetos em Destaque
 
-* **Beready** - Plataforma de ensino de idiomas 📚
-* **Efraim ar-condicionados** - E-commerce de ar-condicionados 🌡️❄️
+### ❄️ Efraim Ar-Condicionados
+**E-commerce completo com stack moderna**
+
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+[![Next.js](https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+**Funcionalidades:**
+- 🛍️ Catálogo com filtros por marca, potência e preço
+- 🔍 Busca em tempo real com autocomplete
+- 🛒 Carrinho com persistência local
+- 📱 Design responsivo (mobile first)
+- ⚡ Otimizado com Next.js App Router
+- 📊 Dashboard admin (gestão de produtos, pedidos)
+- 💳 Integração de pagamentos (em desenvolvimento)
+
+**Tecnologias:** Next.js 14, TypeScript, Tailwind CSS, Next Auth, Prisma ORM, PostgreSQL
 
 ---
 
-## 📱 Vamos nos conectar?
+### 📘 BeReady - Plataforma de Aprendizado de Inglês
+**Aplicação educacional com separação front-end/back-end**
 
-<div align="center">
+[![CakePHP](https://img.shields.io/badge/CakePHP-5.x-red?style=flat-square&logo=cakephp&logoColor=white)](https://cakephp.org/)
+[![Vite](https://img.shields.io/badge/Vite-5.x-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Node.js](https://img.shields.io/badge/Node.js-20.x-green?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/braian_gaspar/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5545988353553)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braiangaspardarosagaspardarosa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-gaspar-da-rosa-b18bb7217/)
+**✅ Como executar:**
+```bash
+# Backend (CakePHP)
+cd backend
+composer install
+bin/cake server   # roda em http://localhost:8765
 
-</div>
-
----
-
-<div align="center">
-  
-⭐️ **Obrigado pela visita!** ⭐️
-
-*"O código é a poesia da lógica."*
-
-</div>
+# Frontend (Vite + Node.js) - outro terminal
+cd frontend
+npm install
+npm install vite
+npm run dev

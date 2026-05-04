@@ -7,7 +7,7 @@
 </div>
 
 <details>
-<summary>🇺🇸 Click here for English version</summary>
+<summary>English version</summary>
 
 <br>
 
@@ -35,20 +35,15 @@ Hi! I'm **Braian Gaspar da Rosa**, a **Full Stack** developer constantly evolvin
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&hide_border=false&locale=en&date_format=M%20j%5B%2C%20Y%5D)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=dracula&hide=issues&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BraianGaspar&theme=dracula&hide_border=true&area=true)
+  
+<img src="https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=dracula" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BraianGaspar&theme=dracula" width="48%">
 
 </div>
 
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=BraianGaspar&label=Views&color=7159c1&style=flat-square)
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula" width="48%">
 
 </div>
 
@@ -59,28 +54,21 @@ Hi! I'm **Braian Gaspar da Rosa**, a **Full Stack** developer constantly evolvin
 ### 💻 Back-end
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50">
 
 </div>
 
 ### 🎨 Front-end
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50">
 
 </div>
 
@@ -133,19 +121,20 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&hide_border=false&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=dracula&hide=issues&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BraianGaspar&theme=dracula&hide_border=true&area=true)
+<img src="https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=dracula" width="48%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BraianGaspar&theme=dracula" width="48%">
 
 </div>
 
 <div align="center">
 
-![Perfil Views](https://komarev.com/ghpvc/?username=BraianGaspar&label=Visualizações&color=7159c1&style=flat-square)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula" width="48%">
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=BraianGaspar&label=Visualizações&color=9B30FF&style=flat-square">
 
 </div>
 
@@ -156,28 +145,21 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 ### 💻 Back-end
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50">
 
 </div>
 
 ### 🎨 Front-end
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50">
 
 </div>
 

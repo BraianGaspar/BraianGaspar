@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🇧🇷 [Versão em Português](README.md)
+🇧🇷 [Versão em Português](README.pt.md)
 
 </div>
 

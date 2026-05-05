@@ -8,7 +8,7 @@
 
 <div align="center">
 
-🇺🇸 [English version](README.en.md)
+🇺🇸 [English version](README.md)
 
 </div>
 

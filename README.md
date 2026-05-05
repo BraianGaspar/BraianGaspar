@@ -6,8 +6,14 @@
 
 </div>
 
+<div align="center">
+  <a href="#-português">🇧🇷 Português</a> &nbsp;•&nbsp;
+  <a href="#-english">🇺🇸 English</a>
+</div>
+
 ---
 
+<a name="-português"></a>
 ### 🇧🇷 Português
 
 ## 🧑‍💻 Sobre mim
@@ -25,14 +31,7 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=dracula&locale=pt-br&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula&locale=pt-br&hide_border=false"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&hide_border=false"/>
+<img src="https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&locale=pt-br&date_format=M%20j%5B%2C%20Y%5D&hide_border=false"/>
 
 </div>
 
@@ -98,6 +97,7 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 
 ---
 
+<a name="-english"></a>
 ### 🇺🇸 English
 
 ## 🧑‍💻 About Me
@@ -112,13 +112,6 @@ Hi! I'm **Braian Gaspar da Rosa**, a **Full Stack** developer constantly evolvin
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=dracula&locale=en&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula&locale=en&hide_border=false"/>
-
-</div>
 
 <div align="center">
 

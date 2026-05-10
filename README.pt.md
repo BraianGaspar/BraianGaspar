@@ -34,29 +34,9 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 
 <div align="center">
 
-<!-- Cards principais (usando o serviço github-readme-stats) -->
-<img src="https://github-readme-stats.vercel.app/api?username=BraianGaspar&show_icons=true&theme=dracula&locale=pt-br&hide_border=false&bg_color=00000000" alt="GitHub Stats" width="48%" />
+<img src="https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&locale=pt-br&hide_border=false"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula&locale=pt-br&hide_border=false&bg_color=00000000" alt="Top Langs" width="40%" />
-
-<!-- Streak stats -->
-<img src="https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&locale=pt-br&hide_border=false&background=00000000" alt="GitHub Streak" width="90%" />
-
-<!-- Contador de visitas -->
-<img src="https://komarev.com/ghpvc/?username=BraianGaspar&label=Visualizações&color=22C55E&style=flat-square" alt="Profile views" />
-
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BraianGaspar&theme=dracula&bg_color=00000000&hide_border=true" alt="Activity Graph" width="90%" />
-
-</div>
-
----
-
-## 🏆 Troféus do GitHub
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BraianGaspar&theme=dracula&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+![Visualizações](https://komarev.com/ghpvc/?username=BraianGaspar&label=Visualizações&color=22C55E&style=flat-square)
 
 </div>
 
@@ -75,8 +55,6 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js"/>
 <img width="15"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python"/>
 
 </div>
 
@@ -93,34 +71,6 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="Vue.js"/>
 <img width="15"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React"/>
-
-</div>
-
-### 🗄️ Bancos de Dados
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB"/>
-
-</div>
-
-### 🛠️ Ferramentas
-
-<div align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code"/>
-<img width="15"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma"/>
 
 </div>
 
@@ -134,17 +84,6 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5545988353553)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:braiangaspardarosa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/braian-gaspar-da-rosa-b18bb7217/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BraianGaspar)
-
-</div>
-
----
-
-## 📈 Minhas Contribuições
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/BraianGaspar/BraianGaspar/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -156,15 +95,4 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** em co
 
 *"O código é a poesia da lógica."*
 
----
-
-### 📊 Resumo rápido
-
-```javascript
-const braian = {
-  nome: "Braian Gaspar da Rosa",
-  stack: ["Full Stack", "Web Developer"],
-  code: ["PHP", "Java", "JavaScript", "TypeScript"],
-  aprendendo: ["Next.js", "Node.js", "Vue.js"],
-  desafio: "Melhorar a cada dia! 🚀"
-}
+</div>

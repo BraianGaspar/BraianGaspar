@@ -71,6 +71,18 @@ Hi! I'm **Braian Gaspar da Rosa**, a **Full Stack** developer focused on back-en
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&locale=en&hide_border=false"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=BraianGaspar&label=Profile+Views&color=22C55E&style=flat-square)
+
+</div>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Back-end

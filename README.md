@@ -75,9 +75,10 @@ Hi! I'm **Braian Gaspar da Rosa**, a **Full Stack** developer focused on back-en
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&locale=en&hide_border=false"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BraianGaspar&theme=dracula" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BraianGaspar&label=Profile+Views&color=22C55E&style=flat-square)
+<img src="https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&locale=en&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula&hide=css,html,c%2B%2B,c,cmake,swift,dart&langs_count=6" height="165"/>
 
 </div>
 

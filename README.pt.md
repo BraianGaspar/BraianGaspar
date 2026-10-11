@@ -71,6 +71,19 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** com f
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&locale=pt_BR&hide_border=false"/>
+
+![Visualizações](https://komarev.com/ghpvc/?username=BraianGaspar&label=Visualiza%C3%A7%C3%B5es&color=22C55E&style=flat-square)
+
+</div>
+
+---
+
+
 ## 🛠️ Tecnologias e Ferramentas
 
 ### 💻 Back-end

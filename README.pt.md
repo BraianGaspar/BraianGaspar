@@ -75,14 +75,14 @@ Olá! Me chamo **Braian Gaspar da Rosa**, sou desenvolvedor **Full Stack** com f
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&locale=pt_BR&hide_border=false"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BraianGaspar&theme=dracula" width="100%"/>
 
-![Visualizações](https://komarev.com/ghpvc/?username=BraianGaspar&label=Visualiza%C3%A7%C3%B5es&color=22C55E&style=flat-square)
+<img src="https://streak-stats.demolab.com?user=BraianGaspar&theme=dracula&locale=pt_BR&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BraianGaspar&layout=compact&theme=dracula&hide=css,html,c%2B%2B,c,cmake,swift,dart&langs_count=6" height="165"/>
 
 </div>
 
 ---
-
 
 ## 🛠️ Tecnologias e Ferramentas
 
